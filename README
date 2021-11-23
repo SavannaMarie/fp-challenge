@@ -1,0 +1,5 @@
+
+To compile, run ./gradlew shadowJar to create build/libs/fp-challenge-0.1-all.jar
+
+To run, java -jar build/libs/fp-challenge-0.1-all.jar
+
